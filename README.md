@@ -1,5 +1,15 @@
 # slackscrape
 
+## Installation
+
+`sudo apt install python3-pip`
+
+`python3 -m pip install slackclient`
+
+`python3 -m pip install websocket`
+
+`python3 -m pip install websocket-client`
+
 ## Usage
 
 Add your [slack token](https://api.slack.com/docs/oauth-test-tokens) credentials to `env.json` in project root
